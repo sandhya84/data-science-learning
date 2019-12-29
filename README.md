@@ -1,12 +1,16 @@
-# data-science-learning
-This is my first repo
+# My Repo for latest projects at INSAID
 
-print('hello')
+## Here is the list of all Projects
 
-- point 1
-- point 2
+-[ Finance](https://github.com/sandhyaranikaram/data-science-learning/tree/master/finance-project " Finance")
+- Accounts
+- Banking
+- Energy
 
-___
-"""
-print("hello world")
-"""
+|Finance Project|[![Finance](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Finance")](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Finance") |
+| :------------: | :------------: |
+|[![Accounts](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Accounts")](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Accounts")   | Accounts Project|
+|Banking Project|[![Banking](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Banking")](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Banking") |
+|[![Energy](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Energy")](https://raw.githubusercontent.com/sandhyaranikaram/data-science-learning/master/images/double-exposure-graph-rows-coins-260nw-530884738.webp "Energy")  |Energy Project|
+
+
